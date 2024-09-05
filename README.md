@@ -11,6 +11,9 @@ Welcome to Week 1! This week, we’ll be diving into the exciting world of SQL a
 
 <br/>
 
+## SQL Queries:
+Below are the SQL queries for the assignment:
+
 ```sql
 --Create the database
 CREATE DATABASE hospital_db;
