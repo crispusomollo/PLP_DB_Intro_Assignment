@@ -1,8 +1,3 @@
-# Introduction & Foundational Skills (Focus on Project Relevance)
-
-Welcome to Week 1! This week, we’ll be diving into the exciting world of SQL and databases! We’ll explore what SQL is used for, how it benefits web applications, and the building blocks of databases: tables, columns, and data types. But most importantly, we’ll get hands-on experience by creating a basic database structure for our upcoming project!
-
-<br/>
 
 ## Learning Objectives:
 - Understand the purpose and applications of SQL, particularly for web applications.
@@ -11,7 +6,7 @@ Welcome to Week 1! This week, we’ll be diving into the exciting world of SQL a
 
 <br/>
 
-## SQL Queries:
+### SQL Queries:
 Below are the SQL queries for the assignment:
 
 ```sql
