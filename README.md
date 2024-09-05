@@ -6,6 +6,8 @@
 
 <br/>
 
+![image](https://github.com/user-attachments/assets/834251d6-92ea-49c6-ae0d-e2c2a04774b0)
+
 ### SQL Queries:
 Below are the SQL queries for the assignment:
 
