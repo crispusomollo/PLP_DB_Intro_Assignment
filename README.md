@@ -6,7 +6,7 @@
 
 <br/>
 
-![image](https://github.com/user-attachments/assets/834251d6-92ea-49c6-ae0d-e2c2a04774b0)
+![ERP drawio](https://github.com/user-attachments/assets/632b0e66-d250-4b35-b4bf-92676b98db75)
 
 ### SQL Queries:
 Below are the SQL queries for the assignment:
